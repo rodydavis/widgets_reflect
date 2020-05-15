@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "842ed58f8096f70a22ac3b696dff707b"
+build_time: [1589512544, 983121000]
+inputs:
+  "/Users/rodydavis/Developer/GitHub/projects/flutter_editor/packages/widgets_reflect/macos/Runner/MainFlutterWindow.swift": [1589320560, 749877214]
+  "/Users/rodydavis/Developer/GitHub/projects/flutter_editor/packages/widgets_reflect/macos/Runner/AppDelegate.swift": [1589320560, 747227073]
+  "/Users/rodydavis/Developer/GitHub/projects/flutter_editor/packages/widgets_reflect/macos/Flutter/GeneratedPluginRegistrant.swift": [1589512522, 788358488]

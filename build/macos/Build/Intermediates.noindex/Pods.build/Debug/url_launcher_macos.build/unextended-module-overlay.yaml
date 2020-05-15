@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/rodydavis/Developer/GitHub/projects/flutter_editor/packages/widgets_reflect/build/macos/Build/Products/Debug/url_launcher_macos/url_launcher_macos.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/rodydavis/Developer/GitHub/projects/flutter_editor/packages/widgets_reflect/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/unextended-module.modulemap",
+    }]
+  }]
+}

@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "c228491d3473f8c4d53360966f39a8d4"
+build_time: [1589512530, 828335000]
+inputs:
+  "/usr/local/Caskroom/flutter/1.2.1/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+5/macos/Classes/UrlLauncherPlugin.swift": [1587158667, 0]
